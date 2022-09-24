@@ -16,3 +16,16 @@
 * Git, GitHub 
 * VsCode 
 * React base
+
+## Code example: ##
+### _This kata is about multiplying a given number by eight if it is an even number and by nine otherwise._ ###
+```javascript
+function simpleMultiplication(number) {
+   if (number % 2 === 0) {
+    return number * 8 
+   }
+   if (number % 2 === 1) {
+   return number * 9
+  }
+}
+```
