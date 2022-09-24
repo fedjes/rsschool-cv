@@ -29,3 +29,15 @@ function simpleMultiplication(number) {
   }
 }
 ```
+
+## Courses: ##
+* __JavaScript/Front-end 2021Q3__ 
+* __JavaScript/Front-end 2022Q1__ 
+* ###### Self-education ######
+* ##### JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress) #####
+* ##### RS Schools Course «JavaScript/Front-end 2022Q3 (in progress) #####
+
+## Languages: ## 
+* __English - A2__
+* __Russian__ - _Native_
+* __Belorussian__ - _Native_
